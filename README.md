@@ -52,6 +52,18 @@ Crafting reliable digital tools for businesses.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RolxMeh&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RolxMeh&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🤝 Let's Collaborate
 
 Whether you're a business owner looking to digitize operations or a developer building tools for the real world — I’m open to partnerships and contract work.
